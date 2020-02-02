@@ -5,17 +5,19 @@
 
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# small
+## smaller
+###### smallest
 
-- Bulleted
-- List
+- Mac OS
+- Microsoft
 
-1. Numbered
-2. List
+1. Mac OS
+2. Microsoft
 
-**Bold** and _Italic_ and `Code` text
+**Bold** 
+_Italic_ 
+`Code` text
 
 [Link](url) and ![Image](src)
 ```
