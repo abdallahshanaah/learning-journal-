@@ -17,6 +17,5 @@ A mindset may be so firmly established that it creates a powerful incentive with
 **Bold text** 
 _Italic text_ 
 `Code` text
-
 [facebook](https://web.facebook.com/abdallah.shanaa.18?ref=bookmarks) 
 ![Image](https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg?cs=srgb&dl=adventure-calm-clouds-dawn-414171.jpg&fm=jpg)
