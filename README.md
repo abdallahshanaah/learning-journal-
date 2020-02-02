@@ -3,7 +3,7 @@
 ### Mindset
 
 
-Syntax highlighted code block
+
 
 # small
 ## smaller
@@ -15,8 +15,8 @@ Syntax highlighted code block
 1. Mac OS
 2. Microsoft
 
-**Bold** 
-_Italic_ 
+**Bold text** 
+_Italic text_ 
 `Code` text
 
 [Link](url) and ![Image](src)
