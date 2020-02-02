@@ -19,10 +19,6 @@
 _Italic text_ 
 `Code` text
 
-[Link](url) and ![Image](src)
+[facebook](https://web.facebook.com/?_rdc=1&_rdr) 
+![Image](src)
 ```
-
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
