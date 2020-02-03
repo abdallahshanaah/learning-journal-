@@ -1,4 +1,4 @@
-#summary
+# summary
 1- we learn how to download the code editor 
 2- how to open dir by the terminal (cd)commad
 3- how to create new dir (mkdir)commad 
